@@ -1,0 +1,17 @@
+Express: Framework para trabajar con protocolo http, permite definir rutas, tener sistema de rutas, recibir peticiones http, crear métodos. 
+
+Body-parser: Convertir peticiones hechas al backend en objeto json usable por Javascript.
+
+Connect-multiparty : Permite subir archivos a mi backend con la variable files, recoger ficheros y guardarlos en una carpeta del server.
+
+Mongoose: Librería orm para trabajar con MongoDB, tiene métodos que facilitan trabajar con Mongo.
+
+Nodemon: Cada vez que cambie el código, automáticamente se refresque. ^SOLO UTILIZAR EN DESARROLLO. DEV DEPENDENCIES. Incluir en "scripts" el método "start": "nodemon index.js"
+
+Cors: para permitir que se hagan peticiones ajax a nuestro backend desde otro dominio diferente y así evitar el error del cross-origin request.
+
+Nodemailer: módulo para el envio de email desde node.js.
+
+Bootstrap: Lo utilicé para el formulario de contacto.
+
+Sweetalert2: Lo utilicé para la alerta más bonita del formulario de contacto. 

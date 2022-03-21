@@ -1,0 +1,14 @@
+Mongo DB
+Angular 13.3.0
+Jquery 3.6.0
+NodeJS 16.14.1
+ - Express 4.17.3
+ - Body-parser 1.19.2
+ - Connect-multiparty 2.2.0
+ - Mongoose 6.2.7
+ - Nodemon 2.0.15	
+Cors 2.8.5
+Nodemailer 6.7.2
+Sweetalert2 11.4.6
+Bootstrap 5.1.3
+
